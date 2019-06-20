@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "QA_APP3_LAHORA (NO USAR)", 
+            "IdInstancia": "i-0f4517f980359d403", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP33_LAHORA", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "G-AS-LaHora", 
+            "IdInstancia": "i-079e35a94a0e471a6", 
+            "PublicDnsName": "ec2-54-242-111-197.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.242.111.197", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "G-AS-LaHora", 
+            "IdInstancia": "i-00d0bae6ddb9c79ee", 
+            "PublicDnsName": "ec2-18-233-147-102.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.233.147.102", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "G-AS-LaHora", 
+            "IdInstancia": "i-0a684ff431d104e70", 
+            "PublicDnsName": "ec2-54-236-239-70.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.236.239.70", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "QA_APP2_LAHORA (NO USAR)", 
+            "IdInstancia": "i-062468d8aa9ea6ac8", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP2_LAHORA.", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "dev-app-lahora", 
+            "IdInstancia": "i-081a2c905bb33dbff", 
+            "PublicDnsName": "ec2-52-205-72-163.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.205.72.163", 
+            "Nombre": "dev-app-lahora", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NFS-LaHora", 
+            "IdInstancia": "i-00ffd03ce46f70b42", 
+            "PublicDnsName": "ec2-52-204-198-31.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.204.198.31", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "QA_APP4_LAHORA (NO USAR)", 
+            "IdInstancia": "i-0120a61c5e7706736", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP4_LAHORA", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "QA_APP1_Lahora", 
+            "IdInstancia": "i-0ecf28f58610a2b40", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP1_lahora", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "Prod-APP-LaHora-M5", 
+            "IdInstancia": "i-0b3e1a3f291365983", 
+            "PublicDnsName": "ec2-52-73-173-41.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.173.41", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ]
+]

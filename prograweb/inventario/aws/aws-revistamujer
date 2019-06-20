@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m3.xlarge", 
+            "Tags": "new_prod_revistamujer (NO USAR)", 
+            "IdInstancia": "i-55d035fc", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "new_prod_revistamujer", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.xlarge", 
+            "Tags": "Prod_RevistaMujer5", 
+            "IdInstancia": "i-f50b5b6b", 
+            "PublicDnsName": "ec2-184-72-253-125.compute-1.amazonaws.com", 
+            "PublicIpAddress": "184.72.253.125", 
+            "Nombre": "Prod_RevistaMujer5", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "DEV", 
+            "IdInstancia": "i-0dfe016f", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DesaRevistaMujer_Final", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m1.large", 
+            "Tags": "QA", 
+            "IdInstancia": "i-739ea81e", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_RevistaMujer_Final", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "QA_RevistaMujer5 (NO USAR)", 
+            "IdInstancia": "i-e66ea47f", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_RevistaMujer_Final", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "qa_app_canalesexternos", 
+            "IdInstancia": "i-a9ecf200", 
+            "PublicDnsName": "ec2-52-207-60-235.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.207.60.235", 
+            "Nombre": "qa_app_canalesexternos", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "prod_app_canalesexternos", 
+            "IdInstancia": "i-3f820fec", 
+            "PublicDnsName": "ec2-52-4-49-105.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.4.49.105", 
+            "Nombre": "prod_app_canalesexternos", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "qa_bd_canalesexternos", 
+            "IdInstancia": "i-4bebf5e2", 
+            "PublicDnsName": "ec2-52-206-95-7.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.206.95.7", 
+            "Nombre": "qa_bd_canalesexternos", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "dev_bd_canalesexternos", 
+            "IdInstancia": "i-6f6b75c6", 
+            "PublicDnsName": "ec2-54-165-162-208.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.165.162.208", 
+            "Nombre": "dev_bd_canalesexternos", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "prod_bd_canalesexternos", 
+            "IdInstancia": "i-7e8c63d6", 
+            "PublicDnsName": "ec2-54-152-163-174.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.152.163.174", 
+            "Nombre": "prod_bd_canalesexternos", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "dev_app_canalesexternos", 
+            "IdInstancia": "i-ff6c7256", 
+            "PublicDnsName": "ec2-50-16-141-135.compute-1.amazonaws.com", 
+            "PublicIpAddress": "50.16.141.135", 
+            "Nombre": "dev_app_canalesexternos", 
+            "Estado": "running"
+        }
+    ]
+]

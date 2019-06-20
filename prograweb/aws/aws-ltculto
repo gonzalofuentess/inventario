@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m3.xlarge", 
+            "Tags": "PROD_APP1_CLTO", 
+            "IdInstancia": "i-0dad0afb5a192200f", 
+            "PublicDnsName": "ec2-34-195-183-122.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.195.183.122", 
+            "Nombre": "PROD_APP1_CULTO", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Culto-QA-Frontal", 
+            "IdInstancia": "i-001ca341c775cc01c", 
+            "PublicDnsName": "ec2-34-195-181-25.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.195.181.25", 
+            "Nombre": "QA_APP1_CULTO", 
+            "Estado": "running"
+        }
+    ]
+]

@@ -1,0 +1,134 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Frontal1", 
+            "IdInstancia": "i-02479a54ef7c29e85", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Front1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "NFS_SERVER", 
+            "IdInstancia": "i-026ed1dc69360a708", 
+            "PublicDnsName": "ec2-52-202-126-202.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.202.126.202", 
+            "Nombre": "nfs-server-pulso", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "DEV_APP_MIGRCION_PULSO", 
+            "IdInstancia": "i-0c910910a7494f86d", 
+            "PublicDnsName": "ec2-52-205-59-109.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.205.59.109", 
+            "Nombre": "APP_MIGRACION_PUILSO", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_EDICION", 
+            "IdInstancia": "i-0655264778e9b085a", 
+            "PublicDnsName": "ec2-107-21-163-129.compute-1.amazonaws.com", 
+            "PublicIpAddress": "107.21.163.129", 
+            "Nombre": "QA_EDICION", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "NAT", 
+            "IdInstancia": "i-099cc75a3975dca28", 
+            "PublicDnsName": "ec2-34-226-209-175.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.226.209.175", 
+            "Nombre": "NAT", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Frontal2", 
+            "IdInstancia": "i-03613ed536f7c41f8", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Front2", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_PHP-FP1_F", 
+            "IdInstancia": "i-09df5f7616fa933b5", 
+            "PublicDnsName": "ec2-54-161-125-13.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.161.125.13", 
+            "Nombre": "QA_PHPFPM1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "c3.xlarge", 
+            "Tags": "EDICION", 
+            "IdInstancia": "i-09d8609e9e27370af", 
+            "PublicDnsName": "ec2-107-22-159-135.compute-1.amazonaws.com", 
+            "PublicIpAddress": "107.22.159.135", 
+            "Nombre": "EDICION", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Edicion_eliminar", 
+            "IdInstancia": "i-01cef0cadd6f1fc4c", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "EDICION", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "c3.xlarge", 
+            "Tags": "php-fpm1", 
+            "IdInstancia": "i-033825326954cf833", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "c3.xlarge", 
+            "Tags": "php-fpm2", 
+            "IdInstancia": "i-01218d6c16746b24f", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm2", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_FRONTAL2", 
+            "IdInstancia": "i-04dda7deb318833c7", 
+            "PublicDnsName": "ec2-34-195-132-238.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.195.132.238", 
+            "Nombre": "QA_FRONTAL_PULSO", 
+            "Estado": "running"
+        }
+    ]
+]

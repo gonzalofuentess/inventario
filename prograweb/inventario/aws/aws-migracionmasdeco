@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "DEV_APP_MASDECO (NO USAR)", 
+            "IdInstancia": "i-0d4c2a0448df7b64d", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_MASDECO", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "PROD_APP1_MASDECO", 
+            "IdInstancia": "i-056583f6dd8357b39", 
+            "PublicDnsName": "ec2-34-201-38-235.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.201.38.235", 
+            "Nombre": "PROD_APP_MASDECO", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "PROD_APP2_MASDECO", 
+            "IdInstancia": "i-064259d33087cb623", 
+            "PublicDnsName": "ec2-54-88-210-120.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.88.210.120", 
+            "Nombre": "PROD_APP2_MASDECO", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "Prod-NFS-MasDeco", 
+            "IdInstancia": "i-0a06deab800e847c0", 
+            "PublicDnsName": "ec2-52-55-28-138.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.55.28.138", 
+            "Nombre": "PROD_APP_MASDECO", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP_MASDECO", 
+            "IdInstancia": "i-0cf27f2fe1daa630b", 
+            "PublicDnsName": "ec2-54-85-118-185.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.85.118.185", 
+            "Nombre": "QA_APP_MASDECO", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP2_MASDECO", 
+            "IdInstancia": "i-07c36666fb2b94d32", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP2_MASDECO", 
+            "Estado": "stopped"
+        }
+    ]
+]

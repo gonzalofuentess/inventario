@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Paula-DEV-Frontal", 
+            "IdInstancia": "i-b630a73f", 
+            "PublicDnsName": "ec2-52-200-23-166.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.200.23.166", 
+            "Nombre": "dev_redisenopaula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Paula-DEV-BD", 
+            "IdInstancia": "i-6bcf59e2", 
+            "PublicDnsName": "ec2-34-226-213-8.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.226.213.8", 
+            "Nombre": "dev_bd_redisenopaula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "Paula-QA-Frontal", 
+            "IdInstancia": "i-2e9132aa", 
+            "PublicDnsName": "ec2-54-210-12-8.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.210.12.8", 
+            "Nombre": "QA_APP1_Paula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "ASG-NPaula", 
+            "IdInstancia": "i-0a4d2d610761ef5fe", 
+            "PublicDnsName": "ec2-100-26-149-231.compute-1.amazonaws.com", 
+            "PublicIpAddress": "100.26.149.231", 
+            "Nombre": "NPaula-APP-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "ASG-NPaula", 
+            "IdInstancia": "i-03b9b7e0fe139591c", 
+            "PublicDnsName": "ec2-18-206-154-81.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.206.154.81", 
+            "Nombre": "NPaula-APP-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "NQA-NFS-Paula", 
+            "IdInstancia": "i-03d950d01d69693cd", 
+            "PublicDnsName": "ec2-52-2-85-59.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.2.85.59", 
+            "Nombre": "QA_APP1_Paula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "Paula-PROD-NFS", 
+            "IdInstancia": "i-0965a2a4da346f546", 
+            "PublicDnsName": "ec2-52-205-46-25.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.205.46.25", 
+            "Nombre": "NPaula-NFS-Prod", 
+            "Estado": "running"
+        }
+    ]
+]

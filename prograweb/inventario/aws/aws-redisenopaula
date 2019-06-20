@@ -1,0 +1,123 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "NQA-NFS-Paula", 
+            "IdInstancia": "i-03d950d01d69693cd", 
+            "PublicDnsName": "ec2-52-2-85-59.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.2.85.59", 
+            "Nombre": "QA_APP1_Paula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "ASG-NPaula", 
+            "IdInstancia": "i-0ca36a28d51d2da5d", 
+            "PublicDnsName": "ec2-52-201-87-196.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.201.87.196", 
+            "Nombre": "NPaula-APP-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "QA_APP1_Paula", 
+            "IdInstancia": "i-2e9132aa", 
+            "PublicDnsName": "ec2-54-210-12-8.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.210.12.8", 
+            "Nombre": "QA_APP1_Paula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "prod-app-paula", 
+            "IdInstancia": "i-0e0299dced57947d5", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "PREPROD_APP1_PAULA", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "NFS-Paula", 
+            "IdInstancia": "i-001efb12f34eba743", 
+            "PublicDnsName": "ec2-34-205-21-206.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.205.21.206", 
+            "Nombre": "PREPROD_APP1_PAULA", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "dev_redisenopaula", 
+            "IdInstancia": "i-b630a73f", 
+            "PublicDnsName": "ec2-52-200-23-166.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.200.23.166", 
+            "Nombre": "dev_redisenopaula", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "GAS-NPaula-01062018", 
+            "IdInstancia": "i-024a573ac9ee45031", 
+            "PublicDnsName": "ec2-52-73-151-159.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.151.159", 
+            "Nombre": "NPaula-APP-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "GAS-NPaula-01062018", 
+            "IdInstancia": "i-03ba94c1247d585a9", 
+            "PublicDnsName": "ec2-54-147-124-61.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.147.124.61", 
+            "Nombre": "NPaula-APP-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NPaula-NFS-Prod-2", 
+            "IdInstancia": "i-0965a2a4da346f546", 
+            "PublicDnsName": "ec2-52-205-46-25.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.205.46.25", 
+            "Nombre": "NPaula-NFS-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "ASG-NPaula", 
+            "IdInstancia": "i-0fff709d3d20588f5", 
+            "PublicDnsName": "ec2-54-86-72-211.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.86.72.211", 
+            "Nombre": "NPaula-APP-Prod", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "dev_bd_redisenopaula", 
+            "IdInstancia": "i-6bcf59e2", 
+            "PublicDnsName": "ec2-34-226-213-8.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.226.213.8", 
+            "Nombre": "dev_bd_redisenopaula", 
+            "Estado": "running"
+        }
+    ]
+]

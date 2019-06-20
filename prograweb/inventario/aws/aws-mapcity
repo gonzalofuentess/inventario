@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Key_QA_MapCity", 
+            "IdInstancia": "i-c96188b6", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Key_QA_Mapcity", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m1.large", 
+            "Tags": "Prod_MapCity", 
+            "IdInstancia": "i-f434c01f", 
+            "PublicDnsName": "ec2-23-23-136-10.compute-1.amazonaws.com", 
+            "PublicIpAddress": "23.23.136.10", 
+            "Nombre": "Prod_MapCity", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "ProdMapCity", 
+            "IdInstancia": "i-ce23adbe", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "ProdMapCity", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,21 @@
+{
+"DimensionValues": [
+{
+"Attributes": {},
+"Value": "Amazon ElastiCache"
+},
+{
+"Attributes": {},
+"Value": "EC2 - Other"
+},
+{"Attributes": {},
+"Value": "Amazon Elastic Compute Cloud - Compute"
+},
+{
+"Attributes": {},
+"Value": "Amazon Elasticsearch Service"
+}
+],
+"ReturnSize": 4,
+"TotalSize": 4
+}

@@ -1,0 +1,222 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-1C-Frontal2", 
+            "IdInstancia": "i-0c56f9e24359d2586", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-1C-Frontal4", 
+            "IdInstancia": "i-027e036bd54968495", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-1C-Frontal1", 
+            "IdInstancia": "i-02ab650a29201078b", 
+            "PublicDnsName": "ec2-107-23-117-17.compute-1.amazonaws.com", 
+            "PublicIpAddress": "107.23.117.17", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-Frontal", 
+            "IdInstancia": "i-038f946c0f5cf6420", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NuevaL4Frontal1", 
+            "IdInstancia": "i-0209bca43862bc20c", 
+            "PublicDnsName": "ec2-34-200-225-132.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.200.225.132", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NuevaL4-Edicion", 
+            "IdInstancia": "i-0c76036bb37c2d795", 
+            "PublicDnsName": "ec2-34-237-137-122.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.237.137.122", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "Dev_MigracionLaCuarta", 
+            "IdInstancia": "i-02a926619e9f38d4d", 
+            "PublicDnsName": "ec2-52-201-206-60.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.201.206.60", 
+            "Nombre": "Dev_MigracionLaCuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NuevaL4-Frontal2", 
+            "IdInstancia": "i-0de7901c4293bd168", 
+            "PublicDnsName": "ec2-34-201-9-83.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.201.9.83", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-NFS", 
+            "IdInstancia": "i-06a09649a6591f186", 
+            "PublicDnsName": "ec2-52-73-124-184.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.124.184", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-Edicion", 
+            "IdInstancia": "i-0bb009ddd7832c452", 
+            "PublicDnsName": "ec2-18-210-187-128.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.210.187.128", 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA-NLaCuarta-NFS", 
+            "IdInstancia": "i-09d98ad11d8954a24", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "test_ambienteqa (NO USAR)", 
+            "IdInstancia": "i-06248876f4c5d2363", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "HDB", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA-NLaCuarta-Edicion", 
+            "IdInstancia": "i-04079f9a2e66ad5ac", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-Frontal", 
+            "IdInstancia": "i-042995359cd98bdc4", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LC-PHP-FPM-PROD-08102018", 
+            "IdInstancia": "i-00fe7c8b3bdf58f44", 
+            "PublicDnsName": "ec2-34-234-207-112.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.234.207.112", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA-NLaCuarta-Frontal", 
+            "IdInstancia": "i-05b4d4f8205b46c63", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NuevaL4-PHP-FPM1", 
+            "IdInstancia": "i-0f9e21b23616e7aa0", 
+            "PublicDnsName": "ec2-35-173-48-151.compute-1.amazonaws.com", 
+            "PublicIpAddress": "35.173.48.151", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-1C-Edicion", 
+            "IdInstancia": "i-06387efa0471b1ec0", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "NLaCuarta-PHPFPM", 
+            "IdInstancia": "i-090b9ac8252e17566", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "NLacuarta", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "thecrow_l4ta", 
+            "IdInstancia": "i-0ca09bc30dd55a426", 
+            "PublicDnsName": "ec2-18-212-231-158.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.212.231.158", 
+            "Nombre": "thecrow_l4ta", 
+            "Estado": "running"
+        }
+    ]
+]

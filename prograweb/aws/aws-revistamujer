@@ -1,0 +1,13 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m3.xlarge", 
+            "Tags": "Prod_RevistaMujer5", 
+            "IdInstancia": "i-f50b5b6b", 
+            "PublicDnsName": "ec2-184-72-253-125.compute-1.amazonaws.com", 
+            "PublicIpAddress": "184.72.253.125", 
+            "Nombre": "Prod_RevistaMujer5", 
+            "Estado": "running"
+        }
+    ]
+]

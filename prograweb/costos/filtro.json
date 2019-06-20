@@ -1,0 +1,15 @@
+{
+   "Dimensions": {
+   "Key": "SERVICE", "Values": [
+        "Amazon Relational Database Service",
+        "Amazon ElastiCache",
+        "Amazon Elastic Compute Cloud - Compute",
+        "Amazon Simple Storage Service",
+        "Amazon CloudFront",
+        "Amazon Route 53",
+        "Amazon Virtual Private Cloud"
+   ]
+   }
+   
+}
+

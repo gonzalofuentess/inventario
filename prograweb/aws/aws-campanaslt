@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Campanaslt-QA-Frontal", 
+            "IdInstancia": "i-659b7607", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_CampanasLT", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "CampanasLT-PROD-Frontal", 
+            "IdInstancia": "i-ac38ebc6", 
+            "PublicDnsName": "ec2-184-73-213-147.compute-1.amazonaws.com", 
+            "PublicIpAddress": "184.73.213.147", 
+            "Nombre": "Prod_Campanaslt_Final", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Campanaslt-DEV-Frontal", 
+            "IdInstancia": "i-51639433", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DesaCampanasLTFinal", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "ALIANZACORPBANCA-DEV-Frontal", 
+            "IdInstancia": "i-4c80b7a1", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_ALIANZACORPBANCA", 
+            "Estado": "stopped"
+        }
+    ]
+]

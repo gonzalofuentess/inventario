@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "PROD_ClubLTCorpbanca", 
+            "IdInstancia": "i-ee46270f", 
+            "PublicDnsName": "ec2-54-235-179-82.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.235.179.82", 
+            "Nombre": "PROD_ClubLTCorpbanca", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m1.small", 
+            "Tags": "QA-Suscribetelt", 
+            "IdInstancia": "i-f4d513d5", 
+            "PublicDnsName": "ec2-23-20-21-225.compute-1.amazonaws.com", 
+            "PublicIpAddress": "23.20.21.225", 
+            "Nombre": "QA_Suscribetelt", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "QA_ClubLTCorpbanca", 
+            "IdInstancia": "i-dbbf1c3a", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_ClubLTCorpbanca", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m1.small", 
+            "Tags": "Prod-SuscribeteLT", 
+            "IdInstancia": "i-cf4ecaee", 
+            "PublicDnsName": "ec2-54-221-214-138.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.221.214.138", 
+            "Nombre": "Prod-SuscribeteLT", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "DEV-SuscribeteLT", 
+            "IdInstancia": "i-7bc3d91c", 
+            "PublicDnsName": "ec2-54-81-136-174.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.81.136.174", 
+            "Nombre": "Dev-suscribetelt", 
+            "Estado": "running"
+        }
+    ]
+]

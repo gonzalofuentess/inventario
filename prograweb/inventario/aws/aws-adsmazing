@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_Adsmazing", 
+            "IdInstancia": "i-8a02f138", 
+            "PublicDnsName": "ec2-52-73-118-2.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.118.2", 
+            "Nombre": "QA_Adsmazing", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "Backup", 
+            "IdInstancia": "i-1ce7a184", 
+            "PublicDnsName": "ec2-52-73-225-184.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.225.184", 
+            "Nombre": "Desa_Adsmazing", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Prod_App1_Adsmazing", 
+            "IdInstancia": "i-b5d64b2e", 
+            "PublicDnsName": "ec2-52-87-75-134.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.87.75.134", 
+            "Nombre": "Prod_App1_Adsmazing", 
+            "Estado": "running"
+        }
+    ]
+]

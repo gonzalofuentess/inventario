@@ -1,0 +1,13 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "Chatbot-QA-Win", 
+            "IdInstancia": "i-099065583c3c2f6b2", 
+            "PublicDnsName": "ec2-3-93-224-82.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.93.224.82", 
+            "Nombre": "Chatbot_QA_Win", 
+            "Estado": "running"
+        }
+    ]
+]

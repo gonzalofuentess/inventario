@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m4.2xlarge", 
+            "Tags": "Mouse-PROD-Frontal", 
+            "IdInstancia": "i-09ecdc26ab5f6f4af", 
+            "PublicDnsName": "ec2-34-196-242-77.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.196.242.77", 
+            "Nombre": "PROD_APP_MOUSE1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "MOUSE-QA-Frontal", 
+            "IdInstancia": "i-003eb24af3605856f", 
+            "PublicDnsName": "ec2-34-197-70-243.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.197.70.243", 
+            "Nombre": "QA_APP_MOUSE", 
+            "Estado": "running"
+        }
+    ]
+]

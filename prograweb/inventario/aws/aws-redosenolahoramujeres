@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP_LAHORAMUJERES", 
+            "IdInstancia": "i-04ce26c4ffaccf3c2", 
+            "PublicDnsName": "ec2-52-202-214-176.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.202.214.176", 
+            "Nombre": "QA_APP_LAHORAMUJERES", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP2_LAHORAMUJERES", 
+            "IdInstancia": "i-00ef012121a86d0eb", 
+            "PublicDnsName": "ec2-34-192-43-171.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.192.43.171", 
+            "Nombre": "QA_APP2_LAHORAMUJERES", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "dev_app_lahoramujeres", 
+            "IdInstancia": "i-0d8dd4275bf76e9dd", 
+            "PublicDnsName": "ec2-52-72-77-102.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.72.77.102", 
+            "Nombre": "dev_app_lahoramujeres", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "PROD_APP2_LAHORAM", 
+            "IdInstancia": "i-01b8a1dc573096811", 
+            "PublicDnsName": "ec2-34-195-167-41.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.195.167.41", 
+            "Nombre": "PROD_APP2_LAHORAM", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "PROD_APP_LAHORAM", 
+            "IdInstancia": "i-09032f82caf273aa3", 
+            "PublicDnsName": "ec2-34-195-161-106.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.195.161.106", 
+            "Nombre": "PROD_APP_LAHORAM", 
+            "Estado": "running"
+        }
+    ]
+]

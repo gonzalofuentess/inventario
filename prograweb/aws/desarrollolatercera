@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "Frontal1", 
+            "IdInstancia": "i-0d333322e3424880c", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Frontal1", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "Pivote", 
+            "IdInstancia": "i-0e1ebd824d4a66e93", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Pivote", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "phpfpm-1", 
+            "IdInstancia": "i-0fee0a7153fa1d13b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm1", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "phpfpm-3", 
+            "IdInstancia": "i-004429b3e4164fbcb", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm3", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "EDICION", 
+            "IdInstancia": "i-0cbf4885434d8c7e3", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "EDICION", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Frontal2", 
+            "IdInstancia": "i-0a64dcf40f12ef7e4", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Frontal2", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "phpfpm-2", 
+            "IdInstancia": "i-0d6f0559cdf2ef9a2", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm2", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "phpfpm-4", 
+            "IdInstancia": "i-06461b4966d3303f8", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm4", 
+            "Estado": "stopped"
+        }
+    ]
+]

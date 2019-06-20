@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "prod-app1-mtonline", 
+            "IdInstancia": "i-373d8cb0", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "prod-app-mtonline", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_BD_MTONLINE", 
+            "IdInstancia": "i-06ba6096", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_BD_MTONLINE", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "prod-app2-mtonline (NO USAR)", 
+            "IdInstancia": "i-07c5da7076b0eac82", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "prod-app-mtonline", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "prod-app-mtonline", 
+            "IdInstancia": "i-0977deb9a424e089e", 
+            "PublicDnsName": "ec2-52-200-113-119.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.200.113.119", 
+            "Nombre": "prod-app-mtonline", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP_MTONLINE", 
+            "IdInstancia": "i-cf845e5f", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP_MTONLINE", 
+            "Estado": "stopped"
+        }
+    ]
+]

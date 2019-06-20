@@ -1,0 +1,13 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Prod-SuscribeteLT", 
+            "IdInstancia": "i-cf4ecaee", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Prod-SuscribeteLT", 
+            "Estado": "stopped"
+        }
+    ]
+]

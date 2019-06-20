@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m1.small", 
+            "Tags": "AvisosLegales_OLD_EXPROD", 
+            "IdInstancia": "i-0864c26b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "ProdAvisoslegalesFinal", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Desa_AvisosLegales", 
+            "IdInstancia": "i-89d922fb", 
+            "PublicDnsName": "ec2-54-158-112-252.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.158.112.252", 
+            "Nombre": "Desa_AvisosLegalesFinal", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "QA_AvisosLegales", 
+            "IdInstancia": "i-09dd267b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_AvisosLegalesFinal", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Dev-AvisosLegales", 
+            "IdInstancia": "i-07d261930c674d512", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": "18.205.253.23", 
+            "Nombre": "Dev-AvisosLegales", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m1.small", 
+            "Tags": "prod-AvisosLegales", 
+            "IdInstancia": "i-0a4d4656bf982539b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": "18.212.14.231", 
+            "Nombre": "preprod-AvisosLegales", 
+            "Estado": "running"
+        }
+    ]
+]

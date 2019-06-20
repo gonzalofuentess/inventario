@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "dev_migracion_quepasa (NO USAR)", 
+            "IdInstancia": "i-cde7b01a", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "dev_migracion_quepasa", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "QuePasa-DEV-Frontal", 
+            "IdInstancia": "i-5411defc", 
+            "PublicDnsName": "ec2-54-86-127-59.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.86.127.59", 
+            "Nombre": "quepasa_app_dev_1", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QuePasa-QA-Frontal", 
+            "IdInstancia": "i-00073056bbabf953b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "quepasa_app_qa_1", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.large", 
+            "Tags": "NFS-QuePasa", 
+            "IdInstancia": "i-0985a37cf208e3a0f", 
+            "PublicDnsName": "ec2-52-6-205-133.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.6.205.133", 
+            "Nombre": "quepasa_app_prod_1", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "Prueba-qa-quepasa", 
+            "IdInstancia": "i-0912d3a01c6237268", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "quepasa_app_qa_1", 
+            "Estado": "stopped"
+        }
+    ]
+]

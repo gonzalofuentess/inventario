@@ -1,0 +1,18 @@
+{
+    "ResultsByTime": [
+        {
+            "Estimated": true, 
+            "TimePeriod": {
+                "Start": "2019-02-16", 
+                "End": "2019-02-17"
+            }, 
+            "Total": {
+                "AmortizedCost": {
+                    "Amount": "309.0413581229", 
+                    "Unit": "USD"
+                }
+            }, 
+            "Groups": []
+        }
+    ]
+}

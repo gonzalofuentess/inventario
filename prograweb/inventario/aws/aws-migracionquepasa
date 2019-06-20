@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "Prueba-qa-quepasa", 
+            "IdInstancia": "i-0912d3a01c6237268", 
+            "PublicDnsName": "ec2-52-91-50-69.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.91.50.69", 
+            "Nombre": "quepasa_app_qa_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "ASG-QuePasa-Prod", 
+            "IdInstancia": "i-0b4285292b789d971", 
+            "PublicDnsName": "ec2-54-204-120-23.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.204.120.23", 
+            "Nombre": "quepasa_app_prod_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "dev_migracion_quepasa (NO USAR)", 
+            "IdInstancia": "i-cde7b01a", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "dev_migracion_quepasa", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "app_dev_1", 
+            "IdInstancia": "i-5411defc", 
+            "PublicDnsName": "ec2-54-86-127-59.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.86.127.59", 
+            "Nombre": "quepasa_app_dev_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NFS-QuePasa", 
+            "IdInstancia": "i-0985a37cf208e3a0f", 
+            "PublicDnsName": "ec2-52-6-205-133.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.6.205.133", 
+            "Nombre": "quepasa_app_prod_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "app_qa_1_final", 
+            "IdInstancia": "i-00073056bbabf953b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "quepasa_app_qa_1", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "dev_glamorama_app1 (NO USAR)", 
+            "IdInstancia": "i-69fcebf2", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "dev_migracion_glamorama", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NFS-Glamorama", 
+            "IdInstancia": "i-0e659f4ad50eb5260", 
+            "PublicDnsName": "ec2-52-4-0-93.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.4.0.93", 
+            "Nombre": "prod_glamorama_app1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "dev_app_glamorama (NO USAR)", 
+            "IdInstancia": "i-e46a7b1b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "dev_migracion_glamorama", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "qa_glamorama_app1", 
+            "IdInstancia": "i-7fe1dfdf", 
+            "PublicDnsName": "ec2-54-237-242-94.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.237.242.94", 
+            "Nombre": "qa_glamorama_app1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "qa_glamorama_app2", 
+            "IdInstancia": "i-686c96ca", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "qa_glamorama_app2", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "Prod-Glamorama-Frontal1", 
+            "IdInstancia": "i-055c80003ec356a15", 
+            "PublicDnsName": "ec2-18-234-174-50.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.234.174.50", 
+            "Nombre": "prod_glamorama_app1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "GS-Glamorama-Prod", 
+            "IdInstancia": "i-0c9cdaff3700e67d5", 
+            "PublicDnsName": "ec2-34-203-226-195.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.203.226.195", 
+            "Nombre": "prod_glamorama_app1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "Prod-Glamorama-Frontal2", 
+            "IdInstancia": "i-00dbffc5b5edad67e", 
+            "PublicDnsName": "ec2-174-129-59-221.compute-1.amazonaws.com", 
+            "PublicIpAddress": "174.129.59.221", 
+            "Nombre": "prod_glamorama_app1", 
+            "Estado": "running"
+        }
+    ]
+]

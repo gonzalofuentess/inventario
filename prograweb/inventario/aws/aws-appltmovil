@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "DEV_APP2_MOVILT", 
+            "IdInstancia": "i-0399ac5fcbc98f009", 
+            "PublicDnsName": "ec2-50-17-21-103.compute-1.amazonaws.com", 
+            "PublicIpAddress": "50.17.21.103", 
+            "Nombre": "DEV_APP2_MOVILT", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "DEV_APP1_MOVILT", 
+            "IdInstancia": "i-0fe722065979f486b", 
+            "PublicDnsName": "ec2-54-80-24-234.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.80.24.234", 
+            "Nombre": "DEV_APP1_MOVILT", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "PROD_APP1_MOVILT.", 
+            "IdInstancia": "i-0453169b94fa92c84", 
+            "PublicDnsName": "ec2-52-207-0-84.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.207.0.84", 
+            "Nombre": "PROD_APP1_MOVILT", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "PROD_APP2_MOVILT", 
+            "IdInstancia": "i-0f510055e51792273", 
+            "PublicDnsName": "ec2-52-206-249-190.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.206.249.190", 
+            "Nombre": "PROD_APP2_MOVILT", 
+            "Estado": "running"
+        }
+    ]
+]

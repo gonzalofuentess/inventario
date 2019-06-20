@@ -1,0 +1,47 @@
+import datetime
+import commands
+import time
+import json
+
+
+def ayer(): 
+	today=datetime.date.today() 
+	oneday=datetime.timedelta(days=1) 
+	yesterday=today-oneday  
+	return yesterday
+
+#print(ayer())
+
+
+#def anteayer():
+#        today=datetime.date.today()
+#        oneday=datetime.timedelta(days=2)
+#        yesterday=today-oneday
+#        return yesterday
+
+#print(anteayer())
+
+
+uno=ayer()
+hoy=datetime.date.today()
+#dos=ayer()
+
+print(hoy)
+print(uno)
+
+
+result=commands.getoutput("aws ce get-cost-and-usage --time-period Start="+str(uno)+",End="+str(hoy)+" --granularity DAILY --metrics AmortizedCost --profile LaterceraV2")
+datos=json.dumps(result)
+decoded=json.loads(result)
+#print(str(decoded["ResultsByTime"][0]["TimePeriod"]["Start"]))
+print(str(decoded["ResultsByTime"][0]["Total"]["AmortizedCost"]["Amount"]))
+
+
+#def getYesterday(): 
+#	today=datetime.date.today() 
+#	oneday=datetime.timedelta(days=1) 
+#	yesterday=today-oneday  
+#	return yesterday
+#
+#
+#print(getYesterday())

@@ -1,0 +1,101 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "TEST", 
+            "IdInstancia": "i-05d3b120a9ce2d1b3", 
+            "PublicDnsName": "ec2-34-230-43-159.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.230.43.159", 
+            "Nombre": "PROD-APP-TEST", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Prueba-PHPFPM1", 
+            "IdInstancia": "i-0a8fd677b5f157eab", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "prueba", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Prueba", 
+            "IdInstancia": "i-05f563d28f9b585aa", 
+            "PublicDnsName": "ec2-54-165-13-194.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.165.13.194", 
+            "Nombre": "prueba", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Prueba-Edicion1", 
+            "IdInstancia": "i-0fceb4dcf9649299a", 
+            "PublicDnsName": "ec2-34-230-83-23.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.230.83.23", 
+            "Nombre": "prueba", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "", 
+            "IdInstancia": "i-055bea62e94f3026b", 
+            "PublicDnsName": "ec2-35-169-180-246.compute-1.amazonaws.com", 
+            "PublicIpAddress": "35.169.180.246", 
+            "Nombre": "Metricas", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "TheCrow_Redis", 
+            "IdInstancia": "i-0029ff7d7c1ccad9f", 
+            "PublicDnsName": "ec2-54-152-92-174.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.152.92.174", 
+            "Nombre": "thecrow_L4ta_GT", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.xlarge", 
+            "Tags": "Pandora_Amazon-Sitio", 
+            "IdInstancia": "i-4372ebc3", 
+            "PublicDnsName": "ec2-52-20-240-153.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.20.240.153", 
+            "Nombre": "Pandora_Amazon1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.large", 
+            "Tags": "Pandora_Amazon_7", 
+            "IdInstancia": "i-061c6c8e58bc10461", 
+            "PublicDnsName": "ec2-34-197-30-69.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.197.30.69", 
+            "Nombre": "Pandora_Amazon7", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Prueba-Frontal1", 
+            "IdInstancia": "i-034fb173833fc79f9", 
+            "PublicDnsName": "ec2-18-215-239-33.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.215.239.33", 
+            "Nombre": "prueba", 
+            "Estado": "running"
+        }
+    ]
+]

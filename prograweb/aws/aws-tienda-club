@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "TiendaCLT-DEV-Frontal", 
+            "IdInstancia": "i-0d0d71df", 
+            "PublicDnsName": "ec2-52-54-248-54.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.54.248.54", 
+            "Nombre": "dev_app_tiendaclt", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "TiendaCLT-DEV-BD", 
+            "IdInstancia": "i-6c0975be", 
+            "PublicDnsName": "ec2-52-3-109-105.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.3.109.105", 
+            "Nombre": "dev_bd_tiendaclt", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "TiendaCLT-PROD-BD", 
+            "IdInstancia": "i-1e297abe", 
+            "PublicDnsName": "ec2-52-20-110-169.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.20.110.169", 
+            "Nombre": "prod_bd_tiendaclt", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "TiendaCLT-PROD-Frontal", 
+            "IdInstancia": "i-c3287b63", 
+            "PublicDnsName": "ec2-52-3-112-134.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.3.112.134", 
+            "Nombre": "prod_app_tiendaclt", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "TiendaCLT-QA-Frontal", 
+            "IdInstancia": "i-d4aa8d74", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "qa_app_tiendaclt", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "TiendaCLT-QA-BD", 
+            "IdInstancia": "i-61a88fc1", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "qa_bd_tiendaclt", 
+            "Estado": "stopped"
+        }
+    ]
+]

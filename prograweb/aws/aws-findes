@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "Finde-PROD-Edicion", 
+            "IdInstancia": "i-005ff7dcc81b6b06f", 
+            "PublicDnsName": "ec2-34-239-1-67.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.239.1.67", 
+            "Nombre": "NFinde-Edicion", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "GAS-NFinde-Prod", 
+            "IdInstancia": "i-0c717297b23f7de16", 
+            "PublicDnsName": "ec2-18-209-240-149.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.209.240.149", 
+            "Nombre": "NFinde-Frontal1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "NFinde-NFS", 
+            "IdInstancia": "i-0f3f2c84f2defcc39", 
+            "PublicDnsName": "ec2-34-235-34-165.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.235.34.165", 
+            "Nombre": "NFinde-NFS", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Finde-QA-Edicion", 
+            "IdInstancia": "i-0998984ccb653eeb2", 
+            "PublicDnsName": "ec2-34-225-39-212.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.225.39.212", 
+            "Nombre": "NFinde-Edicion", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Finde-QA-NFS", 
+            "IdInstancia": "i-0c2f74f78806c3969", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "qa-finde-nfs", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "GAS-NFinde-Frontal-Prod", 
+            "IdInstancia": "i-0078982091b80993c", 
+            "PublicDnsName": "ec2-3-88-66-45.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.88.66.45", 
+            "Nombre": "NFinde-Frontal1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "Finde-QA-1Capa", 
+            "IdInstancia": "i-03961a573da373bef", 
+            "PublicDnsName": "ec2-54-210-191-135.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.210.191.135", 
+            "Nombre": "NFinde-Frontal1", 
+            "Estado": "running"
+        }
+    ]
+]

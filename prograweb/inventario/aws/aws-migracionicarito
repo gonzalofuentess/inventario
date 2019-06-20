@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "LC-Icarito-Prod", 
+            "IdInstancia": "i-0d3403dc499d9d144", 
+            "PublicDnsName": "ec2-54-174-209-108.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.174.209.108", 
+            "Nombre": "prod_app_icarito_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NFS-Icarito-Prod", 
+            "IdInstancia": "i-0800521cef35b5fa1", 
+            "PublicDnsName": "ec2-52-91-43-156.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.91.43.156", 
+            "Nombre": "prod_app_icarito_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "dev_migracion_icarito (NO USAR)", 
+            "IdInstancia": "i-bc262743", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "dev2_migracion_icarito", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "qa_app_icarito_1", 
+            "IdInstancia": "i-8535f77b", 
+            "PublicDnsName": "ec2-52-23-222-4.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.23.222.4", 
+            "Nombre": "qa_app_icarito_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "LC-Icarito-Prod", 
+            "IdInstancia": "i-0478c076bba88af6c", 
+            "PublicDnsName": "ec2-18-212-42-158.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.212.42.158", 
+            "Nombre": "prod_app_icarito_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "LC-Icarito-Prod", 
+            "IdInstancia": "i-064de5f19c4c509a7", 
+            "PublicDnsName": "ec2-34-207-101-7.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.207.101.7", 
+            "Nombre": "prod_app_icarito_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "qa_app_icarito_2", 
+            "IdInstancia": "i-87db342f", 
+            "PublicDnsName": "ec2-52-90-14-77.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.90.14.77", 
+            "Nombre": "qa_app_icarito_2", 
+            "Estado": "running"
+        }
+    ]
+]

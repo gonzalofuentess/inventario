@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "LAMP", 
+            "IdInstancia": "i-93e5dafc", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DesaBlogsLT_Final", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Prod_BlogsLT_Temporal", 
+            "IdInstancia": "i-cd52d7a5", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Prod_Bloglt", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Codisa", 
+            "IdInstancia": "i-c949deab", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QaBlogslt", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "GAS-Biut-Prod", 
+            "IdInstancia": "i-0ccbfd56a8bad5581", 
+            "PublicDnsName": "ec2-52-207-239-128.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.207.239.128", 
+            "Nombre": "prod_app_biut_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NFS-Biut", 
+            "IdInstancia": "i-0e739cbe33cbe0678", 
+            "PublicDnsName": "ec2-35-168-99-220.compute-1.amazonaws.com", 
+            "PublicIpAddress": "35.168.99.220", 
+            "Nombre": "prod_app_biut_1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "GAS-Biut-Prod", 
+            "IdInstancia": "i-00d846b9fd3ba5932", 
+            "PublicDnsName": "ec2-3-84-152-237.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.84.152.237", 
+            "Nombre": "prod_app_biut_1", 
+            "Estado": "running"
+        }
+    ]
+]

@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaHora-PROD-Frontal", 
+            "IdInstancia": "i-02b62d9d0de2ec28d", 
+            "PublicDnsName": "ec2-3-83-84-58.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.83.84.58", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "NFS-LaHora", 
+            "IdInstancia": "i-00ffd03ce46f70b42", 
+            "PublicDnsName": "ec2-52-204-198-31.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.204.198.31", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaHora-PROD-Edicion", 
+            "IdInstancia": "i-0b3e1a3f291365983", 
+            "PublicDnsName": "ec2-52-73-173-41.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.173.41", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaHora-PROD-Frontal", 
+            "IdInstancia": "i-058628c6c0bc868d4", 
+            "PublicDnsName": "ec2-52-206-155-89.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.206.155.89", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "G-AS-LaHora", 
+            "IdInstancia": "i-01a691904f86b0f7e", 
+            "PublicDnsName": "ec2-54-174-144-90.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.174.144.90", 
+            "Nombre": "PROD_APP1_LAHORA", 
+            "Estado": "running"
+        }
+    ]
+]

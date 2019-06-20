@@ -1,0 +1,275 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "DEV_BD_CONCURSOLC", 
+            "IdInstancia": "i-00f79872d670e0ff0", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_BD_Millonaria", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Dev_CopihuedeOro2017", 
+            "IdInstancia": "i-056fd59555ebc3b5b", 
+            "PublicDnsName": "ec2-18-215-179-123.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.215.179.123", 
+            "Nombre": "dev-copihuedeoro2017", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "PROD_APP_GUACHACAS2017", 
+            "IdInstancia": "i-00185918081fa52f9", 
+            "PublicDnsName": "ec2-34-224-0-106.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.224.0.106", 
+            "Nombre": "PROD_APP_GUACHACAS2017", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "Prod-Copihue2018-BD", 
+            "IdInstancia": "i-0ea80cff9aa104e9e", 
+            "PublicDnsName": "ec2-18-212-204-123.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.212.204.123", 
+            "Nombre": "ProdCopihue2018", 
+            "Estado": "running"
+        }, 
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "Prod-Copihue2018-APP", 
+            "IdInstancia": "i-0b345f4d6bf8702aa", 
+            "PublicDnsName": "ec2-34-233-128-201.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.233.128.201", 
+            "Nombre": "ProdCopihue2018", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Prod-LlamadaMillonaria-APP", 
+            "IdInstancia": "i-06b8d203a3bcc3379", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "prod-llamadamillonaria-app", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "Qa_app_suenopop", 
+            "IdInstancia": "i-08dcc71fce8bb1fbf", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP_S_POP", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "QA-BD-Guachacas", 
+            "IdInstancia": "i-0043adec962867069", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA-BD-Guachacas2018", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "prod-desbandate", 
+            "IdInstancia": "i-0bf8208a6093f53d9", 
+            "PublicDnsName": "ec2-52-207-62-80.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.207.62.80", 
+            "Nombre": "prod-desbandate", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "PROD_BD_GUACHACAS2017", 
+            "IdInstancia": "i-0e59df8412293ff35", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "PROD_APP_GUACACHAS2017", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP_CONCURSOLC", 
+            "IdInstancia": "i-0587f497df93ed4f7", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP_MILLONARIA", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Prod-LlamadaMillonaria-BD", 
+            "IdInstancia": "i-0e751faecdf361e99", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "prod-llamadamillonaria-bd", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Prod-APP-Guachacas-2018", 
+            "IdInstancia": "i-0c9706dc65023b3f6", 
+            "PublicDnsName": "ec2-52-54-18-207.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.54.18.207", 
+            "Nombre": "Prod-APP-Guachacas-2018", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_BD_GUACHACAS2017", 
+            "IdInstancia": "i-065f661720c7bd813", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_BD_GUACHACAS2017", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "DEV_APP_GUACHACAS2017", 
+            "IdInstancia": "i-0c2b75c754632f6a5", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_APP_GUACHACAS2017", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Dev_app_suenopop", 
+            "IdInstancia": "i-0d2a589907c5f275c", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_APP_S_POP", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "prod_app_copihue2017", 
+            "IdInstancia": "i-0ab41443c5290fef2", 
+            "PublicDnsName": "ec2-34-235-224-233.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.235.224.233", 
+            "Nombre": "prod_app_copihue2017", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.medium", 
+            "Tags": "QA-Guachacas", 
+            "IdInstancia": "i-028845a3b729303a7", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA-APP-Guachacas2018", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_BD_CONCURSOLC", 
+            "IdInstancia": "i-038a7fd7f331f6b0b", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_BD_MILLONARIA", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "DEV_BD_GUACHACAS2017", 
+            "IdInstancia": "i-09b5fd817f2ff07c5", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_BD_GUACHACAS2017", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Prod-BD-Guachacas-2018", 
+            "IdInstancia": "i-0b444ec5e764d8413", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Prod-BD-Guachacas-2018", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_APP_GUACHACAS2017", 
+            "IdInstancia": "i-08742805bb963deb3", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_APP_GUACHACAS2017", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "DEV_APP_CONCURSOLC", 
+            "IdInstancia": "i-0e633fd5b763bdb5f", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_APP_Millonaria", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "QA_bd_suenopop", 
+            "IdInstancia": "i-0c6d52c5e9b838ff6", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_BD_S_POP", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "qa_app_copihue2017", 
+            "IdInstancia": "i-0559b310a63186191", 
+            "PublicDnsName": "ec2-34-195-94-140.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.195.94.140", 
+            "Nombre": "qa_app_copihue2017", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m1.small", 
+            "Tags": "RematesLaTercera-PROD-Frontal", 
+            "IdInstancia": "i-01325d7e", 
+            "PublicDnsName": "ec2-107-20-230-234.compute-1.amazonaws.com", 
+            "PublicIpAddress": "107.20.230.234", 
+            "Nombre": "prod_sitiosweb", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Prod_iPad_Codisa", 
+            "IdInstancia": "i-763d3408", 
+            "PublicDnsName": "ec2-50-19-135-127.compute-1.amazonaws.com", 
+            "PublicIpAddress": "50.19.135.127", 
+            "Nombre": "Prod_iPad_Codisa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Encuestas-DEV-Frontal", 
+            "IdInstancia": "i-6e1aa185", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Dev_Encuestas", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "Encuestas-PROD-Frontal", 
+            "IdInstancia": "i-6e2bb285", 
+            "PublicDnsName": "ec2-174-129-195-124.compute-1.amazonaws.com", 
+            "PublicIpAddress": "174.129.195.124", 
+            "Nombre": "Prod_Encuestas", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Panelti-DEV-Frontal", 
+            "IdInstancia": "i-eec1a613", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "dev_panelti", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.medium", 
+            "Tags": "MDGrupoCopesa-PROD-Frontal", 
+            "IdInstancia": "i-02fac90c", 
+            "PublicDnsName": "ec2-52-7-105-56.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.7.105.56", 
+            "Nombre": "PROD_APP_M_DIGITALES", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "DEV_APP_M_DIGITALES", 
+            "IdInstancia": "i-736751e3", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "DEV_APP_M_DIGITALES", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "QA_APP_M_DIGITALES", 
+            "IdInstancia": "i-47e9d6d7", 
+            "PublicDnsName": "ec2-52-20-80-156.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.20.80.156", 
+            "Nombre": "QA_APP_M_DIGITALES", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "Key_QA_MapCity", 
+            "IdInstancia": "i-c96188b6", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Key_QA_Mapcity", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "ProdMapCity", 
+            "IdInstancia": "i-ce23adbe", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "ProdMapCity", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t1.micro", 
+            "Tags": "MapCity-PROD-Frontal", 
+            "IdInstancia": "i-f434c01f", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Prod_MapCity", 
+            "Estado": "stopped"
+        }
+    ]
+]

@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "Pulso-PROD-NAT", 
+            "IdInstancia": "i-099cc75a3975dca28", 
+            "PublicDnsName": "ec2-34-226-209-175.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.226.209.175", 
+            "Nombre": "NAT", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Pulso-PROD-Frontal1", 
+            "IdInstancia": "i-02479a54ef7c29e85", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "Front1", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "Pulso-PROD-PHPFPM1", 
+            "IdInstancia": "i-033825326954cf833", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "php-fpm1", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t3.micro", 
+            "Tags": "Pulso-PROD-Edicion", 
+            "IdInstancia": "i-09d8609e9e27370af", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "EDICION", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Pulso-PROD-NFS", 
+            "IdInstancia": "i-026ed1dc69360a708", 
+            "PublicDnsName": "ec2-3-81-124-253.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.81.124.253", 
+            "Nombre": "nfs-server-pulso", 
+            "Estado": "running"
+        }
+    ]
+]

@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "BDOpClientes-DEV-Frontal", 
+            "IdInstancia": "i-bd49d40e", 
+            "PublicDnsName": "ec2-50-17-11-252.compute-1.amazonaws.com", 
+            "PublicIpAddress": "50.17.11.252", 
+            "Nombre": "Dev_BD_datos_Op_Clientes", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "BDOpClientes-DEV-BD", 
+            "IdInstancia": "i-3669f485", 
+            "PublicDnsName": "ec2-52-205-187-194.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.205.187.194", 
+            "Nombre": "Dev_bd_BD_datos_Op_Clientes", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "BDOpClientes-QA-Frontal", 
+            "IdInstancia": "i-fe61fc4d", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_app_BD_datos_Op_Clientes", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "BDOpClientes-QA-BD", 
+            "IdInstancia": "i-a71f8214", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "QA_bd_BD_datos_Op_Clientes", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "BDOpClientes-PROD-Frontal", 
+            "IdInstancia": "i-0ba99a676c0d984f8", 
+            "PublicDnsName": "ec2-52-205-27-74.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.205.27.74", 
+            "Nombre": "PROD_BD_datos_Op_Clientes_", 
+            "Estado": "stopped"
+        }
+    ]
+]

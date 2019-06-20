@@ -1,0 +1,167 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-Frontal1", 
+            "IdInstancia": "i-0209bca43862bc20c", 
+            "PublicDnsName": "ec2-18-232-145-205.compute-1.amazonaws.com", 
+            "PublicIpAddress": "18.232.145.205", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-Frontal2", 
+            "IdInstancia": "i-0de7901c4293bd168", 
+            "PublicDnsName": "ec2-34-235-150-84.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.235.150.84", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-Edicion", 
+            "IdInstancia": "i-0c76036bb37c2d795", 
+            "PublicDnsName": "ec2-34-237-137-122.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.237.137.122", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "Dev_migracionlacuarta", 
+            "IdInstancia": "i-02a926619e9f38d4d", 
+            "PublicDnsName": "ec2-52-201-206-60.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.201.206.60", 
+            "Nombre": "Dev_MigracionLaCuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "THECROW-La4ta-REDIS", 
+            "IdInstancia": "i-00b0207467e26e628", 
+            "PublicDnsName": "ec2-34-227-27-151.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.227.27.151", 
+            "Nombre": "thecrow_l4ta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "c5.large", 
+            "Tags": "PHPFPMC5", 
+            "IdInstancia": "i-03ee4d78c3a5b6539", 
+            "PublicDnsName": "ec2-35-175-147-247.compute-1.amazonaws.com", 
+            "PublicIpAddress": "35.175.147.247", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-PHPFPM", 
+            "IdInstancia": "i-0a50dab7e8475acc4", 
+            "PublicDnsName": "ec2-3-84-164-47.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.84.164.47", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-NFS", 
+            "IdInstancia": "i-06a09649a6591f186", 
+            "PublicDnsName": "ec2-52-73-124-184.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.73.124.184", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t3.micro", 
+            "Tags": "LaCuarta-QA-NFS", 
+            "IdInstancia": "i-09d98ad11d8954a24", 
+            "PublicDnsName": "ec2-52-1-179-191.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.1.179.191", 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t3.micro", 
+            "Tags": "LaCuarta-QA-Edicion", 
+            "IdInstancia": "i-0496d0c62a8100150", 
+            "PublicDnsName": "ec2-54-236-20-136.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.236.20.136", 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t3.micro", 
+            "Tags": "LaCuarta-QA-Frontal", 
+            "IdInstancia": "i-0665aa9c8a1d07614", 
+            "PublicDnsName": "ec2-54-146-248-124.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.146.248.124", 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t3.micro", 
+            "Tags": "QA-NuevaL4-PHPFPM", 
+            "IdInstancia": "i-0ca3896431025e4f5", 
+            "PublicDnsName": "ec2-54-158-250-43.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.158.250.43", 
+            "Nombre": "QA-NLaCuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-PHPFPM", 
+            "IdInstancia": "i-0739466ca0a2523f2", 
+            "PublicDnsName": "ec2-3-85-204-119.compute-1.amazonaws.com", 
+            "PublicIpAddress": "3.85.204.119", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-PHPFPM", 
+            "IdInstancia": "i-046da9686781327fe", 
+            "PublicDnsName": "ec2-54-167-243-85.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.167.243.85", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m5.large", 
+            "Tags": "LaCuarta-PROD-PHPFPM", 
+            "IdInstancia": "i-047f78f976962f083", 
+            "PublicDnsName": "ec2-34-236-37-217.compute-1.amazonaws.com", 
+            "PublicIpAddress": "34.236.37.217", 
+            "Nombre": "NLacuarta", 
+            "Estado": "running"
+        }
+    ]
+]

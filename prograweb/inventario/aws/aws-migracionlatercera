@@ -1,0 +1,156 @@
+[
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "php-fpm1", 
+            "IdInstancia": "i-8a5f3dbb", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "preprod_debian_latercera", 
+            "IdInstancia": "i-7b9fa8c4", 
+            "PublicDnsName": "ec2-52-3-121-37.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.3.121.37", 
+            "Nombre": "preprod_debian_latercera", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "EdicionQA-swap", 
+            "IdInstancia": "i-201fc810", 
+            "PublicDnsName": "ec2-52-44-119-126.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.44.119.126", 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m3.xlarge", 
+            "Tags": "EdicionQA", 
+            "IdInstancia": "i-2b513c1a", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "php-fpm3", 
+            "IdInstancia": "i-f44b46c5", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "php-fpm2", 
+            "IdInstancia": "i-03f8909a", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "php-fpm4", 
+            "IdInstancia": "i-0fdf1719", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "phpfpm1-nuevo", 
+            "IdInstancia": "i-06bcaae93abd51546", 
+            "PublicDnsName": "ec2-35-170-144-39.compute-1.amazonaws.com", 
+            "PublicIpAddress": "35.170.144.39", 
+            "Nombre": "latercera-qa", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "FrontalQA02", 
+            "IdInstancia": "i-45a74fdd", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.nano", 
+            "Tags": "Pivote", 
+            "IdInstancia": "i-2761aeba", 
+            "PublicDnsName": "ec2-54-175-215-125.compute-1.amazonaws.com", 
+            "PublicIpAddress": "54.175.215.125", 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "NAT", 
+            "IdInstancia": "i-c2750445", 
+            "PublicDnsName": "ec2-52-44-96-8.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.44.96.8", 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.small", 
+            "Tags": "NAT2", 
+            "IdInstancia": "i-b129d8a7", 
+            "PublicDnsName": "ec2-107-21-47-115.compute-1.amazonaws.com", 
+            "PublicIpAddress": "107.21.47.115", 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "t2.micro", 
+            "Tags": "preprod_latercera", 
+            "IdInstancia": "i-1e2724bd", 
+            "PublicDnsName": "ec2-52-0-190-134.compute-1.amazonaws.com", 
+            "PublicIpAddress": "52.0.190.134", 
+            "Nombre": "preprod_migracion_latercera", 
+            "Estado": "stopped"
+        }
+    ], 
+    [
+        {
+            "TipoDeInstancia": "m4.large", 
+            "Tags": "FrontalQA01", 
+            "IdInstancia": "i-ae0cc633", 
+            "PublicDnsName": "", 
+            "PublicIpAddress": null, 
+            "Nombre": "latercera-qa", 
+            "Estado": "running"
+        }
+    ]
+]
